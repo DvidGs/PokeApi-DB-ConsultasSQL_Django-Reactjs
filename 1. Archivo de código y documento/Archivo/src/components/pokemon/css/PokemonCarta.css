@@ -1,0 +1,63 @@
+/** Tipos */
+.card-type {
+    font-size: 18px;
+    color: black;
+    list-style: square;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+  
+.card-type li {
+    margin: 0;
+    padding: 0;
+}
+
+.card-type p {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+/** Habilidades */
+.card-abilities {
+    font-size: 18px;
+    color: black;
+    list-style: square;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+  
+.card-abilities li {
+    margin: 0;
+    padding: 0;
+}
+
+.card-abilities p {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+/** Estadisticas Generales **/
+.card-stats {
+    font-size: 18px;
+    color: black;
+    list-style: square;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+.card-stats li {
+    margin: 0;
+    padding: 0;
+}
+
+.card-stats p {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+

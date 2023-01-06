@@ -1,0 +1,55 @@
+.tarea-1 {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .tarea-1-sql {
+    font-size: 10px;
+    margin-bottom: 1px;
+    color: rgb(21, 110, 211);
+  }
+  
+  .tarea-2 {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .tarea-2-sql {
+    font-size: 10px;
+    margin-bottom: 1px;
+    color: rgb(21, 110, 211);
+  }
+  
+.form-container {
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+  
+.form {
+    display: flex;
+    flex-direction: column;
+}
+  
+.form-section {
+    display: flex;
+    margin-bottom: 10px;
+}
+  
+.form-label {
+    width: 100px;
+    font-size: 16px;
+}
+  
+.form-input,
+.form-button {
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+}
+  
+.form-input {
+    flex: 1;
+}
